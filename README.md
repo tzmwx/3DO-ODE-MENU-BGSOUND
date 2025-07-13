@@ -14,6 +14,7 @@
 
 
 文件需求：
+
 1.在BGSOUND文件夹内已提供3DOBGSOUND.EXE，还需要2个文件，一个是BOOT.ISO,一个是FFMPEG.EXE；
 2.在3DO ODE的U盘或SD卡找到BOOT.ISO，建议使用最新的R5版本；
 3.FFMPEG.EXE文件可在https://www.gyan.dev/ffmpeg/builds/下载，此站点有essentials和full版本，
