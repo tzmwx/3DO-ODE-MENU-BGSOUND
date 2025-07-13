@@ -19,7 +19,7 @@
 
 2.在3DO ODE的U盘或SD卡找到BOOT.ISO，建议使用最新的R5版本；
 
-3.FFMPEG.EXE文件可在https://www.gyan.dev/ffmpeg/builds/下载，此站点有essentials和full版本，
+3.FFMPEG.EXE文件可在  https://www.gyan.dev/ffmpeg/builds/  下载，此站点有essentials和full版本，
 均可以使用，解压缩后在BIN文件夹内。
 
 （注：FFMPEG 7.0后，full版本不再支持Windows7和8，请下载essentials版本。）
