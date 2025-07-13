@@ -26,40 +26,61 @@
 
 4.第一次运行前确保目录结构如下：
 
-3DOBGSOUND\
         3DOBGSOUND.EXE
+        
         BOOT.ISO
+        
         FFMPEG.EXE
+        
         README.TXT
+        
 
 5.音频文件基本兼容所有格式，不管源文件是什么格式或品质，均以16Bit 44.1Khz Stereo注入BOOT.ISO
 
 
 
 如何使用：
+
 方法1：
+
 1.打开2个文件夹窗口，一个BGSOUND文件夹，一个音频文件夹；
+
 2.鼠标左键持续按住音频文件不松手，然后拖到3DOBGSOUND.EXE上方松开鼠标左键；
+
 3.屏幕可见黑白字符滚动的窗口，稍后提示“请按任意键继续”，此时你可以关闭窗口；
+
 4.在NEWBOOT文件夹将新文件拷贝到3DO的U盘或SD；
+
 5.完成，可以插入3DO ODE运行。
 
 
 
 
 方法2：
+
 1.用鼠标右击音频文件，选择“复制”
+
 2.用鼠标右击3DOBGSOUND.EXE，选择“粘贴”
+
 3.屏幕可见黑白字符滚动的窗口，稍后提示“请按任意键继续”，此时你可以关闭窗口；
+
 4.在NEWBOOT文件夹将新文件拷贝到3DO的U盘或SD；
+
 5.完成，可以插入3DO ODE运行。
 
 
+
+
+
+
 By tzmwx
+
 2025/07/12
 
 
+
 感谢以下软件及作者：
+
 1.3DO homebrew encryption   v0.6a        By Charles Doty
 
 2.OperaTool     0.01a - By Cristina Ramos
