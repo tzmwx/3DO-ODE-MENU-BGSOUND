@@ -4,11 +4,21 @@
 
 注意，可能有杀毒软件报警，请放心使用，没有病毒和木马！没有病毒和木马！没有病毒和木马！
 
+<img width="518" height="304" alt="358d9f61529ca812abe9c8b3c42fb1e9" src="https://github.com/user-attachments/assets/be6ea3d8-f9cc-4ee8-b847-13141cd82c42" />
+
 3DOLOGOpic.EXE的功能是修改启动画面
+
+![IMG_1875](https://github.com/user-attachments/assets/f1da0f20-6711-454a-a419-e2e97d10003c)
+
 
 3DOMENUpic.EXE的功能是更改游戏列表背景图片
 
+![IMG_1876](https://github.com/user-attachments/assets/00a55d1c-a873-4349-bea3-d6875e8671a1)
+
+
 3DOBGSOUND.EXE的功能是更改游戏列表背景音乐
+
+
 
 
 文件需求：
