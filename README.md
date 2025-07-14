@@ -22,8 +22,8 @@
 
 （注：FFMPEG 7.0后，full版本不再支持Windows7和8，请下载essentials版本。）
 
-4.运行前确保目录结构如下有5个文件
-：
+4.运行前确保目录结构如下有5个文件：
+
         3DOMLOGOpic.EXE
         
         3DOMENUpic.EXE
