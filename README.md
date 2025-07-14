@@ -4,16 +4,16 @@
 
 注意，可能有杀毒软件报警，请放心使用，没有病毒和木马！没有病毒和木马！没有病毒和木马！
 
-3DOLOGOpic.EXE的功能是修改开机画面
+3DOLOGOpic.EXE的功能是修改启动画面
 
-3DOMENUpic.EXE的功能是更改游戏菜单背景图片
+3DOMENUpic.EXE的功能是更改游戏列表背景图片
 
-3DOBGSOUND.EXE的功能是更改3DO ODE菜单软件BOOT.ISO内置背景音乐
+3DOBGSOUND.EXE的功能是更改游戏列表背景音乐
 
 
 文件需求：
 
-1.在BGSOUND文件夹内已提供3DOBGSOUND.EXE，3DOMENUpic.EXE和3DOLOGOpic.EXE，还需要2个文件，一个是BOOT.ISO,一个是FFMPEG.EXE；
+1.需要5个文件，这里提供3DOBGSOUND.EXE，3DOMENUpic.EXE和3DOLOGOpic.EXE，还需要2个文件，一个是BOOT.ISO,一个是FFMPEG.EXE；
 
 2.在3DO ODE的U盘或SD卡找到BOOT.ISO，建议使用最新的R5版本；
 
@@ -22,7 +22,7 @@
 
 （注：FFMPEG 7.0后，full版本不再支持Windows7和8，请下载essentials版本。）
 
-4.运行前确保目录结构如下有5个文件：
+4.运行前确保目录结构如下有5个文件，可以放在U盘或SD卡根目录：
 
         3DOMLOGOpic.EXE
         
@@ -40,7 +40,9 @@
 
 6.图片文件基本兼容所有格式。需要注意游戏菜单背景图片最好使用亮度偏暗一点的图片，否则可能会看不清游戏列表字符，此软件已自动降低亮度20%，如需再次降低亮度，请自行提前处理，然后在再让软件注入BOOT.ISO
 
-3个修改软件使用方法基本相同，以背景音乐3DOBGSOUND.EXE举例说明如何使用：
+3个修改软件使用方法基本相同，使用鼠标将图片或音频文件拖拉至不同功能的EXE文件上方即可。
+
+这里已背景音乐修改软件3DOBGSOUND.EXE举例说明如何使用，其它两个软件方法相同：
 
 方法1：
 
